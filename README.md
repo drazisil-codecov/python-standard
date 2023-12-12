@@ -4,7 +4,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fpython-standard.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fpython-standard?ref=badge_shield)
 
 ### Last Updated: 09/14/23 00:12:41
-
+ 
 ## What is this?
 
 This is a **Python** application, with basic unit tests, for which coverage is uploaded to Codecov on a daily basis. It can also serve as an example for how to integrate Codecov into your Python project. If the build is passing for this project, then Codecov's Python report processing is functional and correct on codecov.io.
